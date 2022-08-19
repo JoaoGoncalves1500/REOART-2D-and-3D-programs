@@ -51,10 +51,8 @@ Don't forget to create a path to the functions folder, otherwise the program won
 
 ### My personal contacts
 If you have any problmem or some curiosity, tell me!
-
 If you have troubles in find the databases send me an e-mail and I'll give you the files. 
 
 E-mail: joaopdgoncalves@gmail.com
 
 LinkedIn: https://www.linkedin.com/in/jo%C3%A3o-duarte-gon%C3%A7alves-5b3bab237/ 
-
