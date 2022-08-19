@@ -16,3 +16,16 @@ Post this, two programs were developed with the ability to study sound propagati
 
 Both programs were submitted to several tests and the results were credible and reliable. Not only do the trajectories seem credible, but also the reﬂections on the surface that at the bottom of the ocean seem to satisfy Snell’s law. Given the uniqueness of calculating the speed of sound along the path of the acoustic ray,
 these programs could not be compared with other propagation models because of the diﬀerence between the speed of sound.
+
+## Getting started
+Now it will be explain how to run the algorithms in order to predict the acoustic ray propagation. 
+You have two major programs, the REOART 2D and REOART 3D. choose the program according to the desired dimension. Kepp in mind that the procedure is the same in both programs. 
+
+### Setp 1 - REOART_{}.m
+This is the firt script you must run. it calculates the real sound speed and the real bathymetry. 
+You can change the value of (don't change anything else): 
+ - lat_pos
+ - long_pos
+ - azimute 
+ - inc_dis
+ - area
