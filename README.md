@@ -19,7 +19,7 @@ these programs could not be compared with other propagation models because of th
 
 ## Getting started
 Now it will be explain how to run the algorithms in order to predict the acoustic ray propagation. 
-You have two major programs, the REOART 2D and REOART 3D. choose the program according to the desired dimension. Kepp in mind that the procedure is the same in both programs. 
+You have two major programs, the REOART 2D and REOART 3D. choose the program according to the desired dimension. Keep in mind that the procedure is the same in both programs. 
 
 ### STEP 1 - REOART_{}.m
 This is the firt script you must run. It calculates the real sound speed and the real bathymetry. 
